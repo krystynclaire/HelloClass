@@ -2,8 +2,8 @@ GROCERY LIST
 
 Organic granola
 organic yogurt
-apples
-lettuce
+organic apples
+organic lettuce
 bread
 protein bars
 strawberries
