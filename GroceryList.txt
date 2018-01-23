@@ -1,7 +1,7 @@
 GROCERY LIST
 
-granola
-yogurt
+Organic granola
+organic yogurt
 apples
 lettuce
 bread
