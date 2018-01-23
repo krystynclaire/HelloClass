@@ -7,7 +7,6 @@ lettuce
 bread
 protein bars
 strawberries
-oranges
 pineapples
 carrots
 cereal
@@ -20,3 +19,5 @@ almond milk
 pineapples
 celery
 soup
+cookies
+ice cream
